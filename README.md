@@ -22,6 +22,8 @@ Estructuras de Control (ngIf, ngFor, ngSwitch, ng-container)
 Formularios
 Ciclos de Vida (ngOnInit, ngOnChanges, ngOnDestroy)
 
-Curso: https://www.youtube.com/watch?v=soInCF7nbDw&ab_channel=SergieCode
-API: https://fakestoreapi.com/docs
-Generar Interface rápida a partir de un JSON: https://app.quicktype.io/
+Curso: [Curso de Angular](https://www.youtube.com/watch?v=soInCF7nbDw&ab_channel=SergieCode)
+
+API: [Documentación de la Fake Store API](https://fakestoreapi.com/docs)
+
+Generar Interface rápida a partir de un JSON: [Generador de Interfaces a partir de JSON](https://app.quicktype.io/)
