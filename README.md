@@ -26,3 +26,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # LP-Angular16
+Módulos (ngModule)
+Componentes
+Enlace de Datos (Binding)
+Comunicación entre Componentes (Input Output)
+Servicios y Dependencias
+Directivas
+Pipes (Filtros)
+Enrutamiento (routing)
+Bootstrap
+Navegación y Rutas
+Router y ActivatedRoute
+Estructuras de Control (ngIf, ngFor, ngSwitch, ng-container)
+Formularios
+Ciclos de Vida (ngOnInit, ngOnChanges, ngOnDestroy)
