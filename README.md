@@ -22,4 +22,6 @@ Estructuras de Control (ngIf, ngFor, ngSwitch, ng-container)
 Formularios
 Ciclos de Vida (ngOnInit, ngOnChanges, ngOnDestroy)
 
-https://www.youtube.com/watch?v=soInCF7nbDw&ab_channel=SergieCode
+Curso: https://www.youtube.com/watch?v=soInCF7nbDw&ab_channel=SergieCode
+API: https://fakestoreapi.com/docs
+Generar Interface rápida a partir de un JSON: https://app.quicktype.io/
